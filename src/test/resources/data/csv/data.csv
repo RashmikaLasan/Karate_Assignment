@@ -1,0 +1,2 @@
+phone_no,card_security_code,card_expiry_date,card_number,card_holder_name,last_name,card_type,first_name,email,date_check_in,date_check_out,room_type_code,rate_plan_code,adults_count,children_count,infants_count
+97150000000,123,925,4.11E+15,name,lastname,VI,firstName,email@email.com,2021-12-23,2021-12-25,K1DOA,DAPR,2,0,0
